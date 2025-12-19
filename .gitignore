@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Database
+service_desk.db
+instance/
+
+# Python cache
+__pycache__/
+
+# macOS files
+.DS_Store
+
+# Environment variables
+.env
+
